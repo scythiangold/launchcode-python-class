@@ -1,2 +1,2 @@
-# launchcode-python-class
-Intro to Python and object-oriented programming
+# LaunchCode Python Class
+Intro to Python, object-oriented programming, and Django

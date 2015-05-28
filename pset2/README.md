@@ -1,4 +1,4 @@
-#Pset 2 - Mario with a class
+# Problem Set 2 - Mario with a class
 * create basic class for mario and pyramid
 * add file i/o option
 * implement use strategy pattern
