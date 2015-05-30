@@ -36,5 +36,6 @@ You can also reference the project code in the [example task list project reposi
 * [Django request and response objects](https://docs.djangoproject.com/en/1.8/ref/request-response/) (includes JsonResponse object)
 * [jQuery `.post()` reference](http://api.jquery.com/jquery.post/)
 * [Using Django models](https://docs.djangoproject.com/en/1.8/topics/db/models/) (setting up your classes, persistence, and persistence relationships)
+* [Django model fields](https://docs.djangoproject.com/en/1.8/ref/models/fields/) (property mapping configuration for object-relational mapping of model properties)
 * [Django model queries](https://docs.djangoproject.com/en/1.8/topics/db/queries/) (creating, accessing, and updating your model data)
 * [Django template tags](https://docs.djangoproject.com/en/1.8/ref/templates/builtins/)
