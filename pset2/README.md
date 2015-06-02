@@ -10,6 +10,7 @@ At the end of the exercise, you should be able to:
 * Explain the concept of encapsulation, and how class creation embodies this concept
 
 ## Getting ready
+For this problem set, we need to understand the basics of classes and objects. If you don't have background from learning another object-oriented language previously, start with the References section below.
 
 ## What to do
 Start by copying your Mario.py file into the `pset2` directory.
